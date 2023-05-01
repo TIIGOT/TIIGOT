@@ -1,6 +1,13 @@
 ### hola matias carrasco. se tu nombre 👋
 
 <!--
+	<title>Mi página web</title>
+</head>
+<body>
+	<h1>Bienvenido a mi página web</h1>
+	<p>Esta es una página de ejemplo creada con HTML. Aquí puedes agregar cualquier contenido que desees, como texto, imágenes, videos, enlaces y mucho más.</p>
+</body>
+</html>
 **TIIGOT/TIIGOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
